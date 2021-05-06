@@ -4,7 +4,7 @@
 
 ### Publications
 [Vendor Model Validation Approaches for Digital Marketing Analysts](https://towardsdatascience.com/vendor-model-validation-approaches-for-digital-marketing-analysts-bb5c74c75274)
-<img src="images/validation.png?raw=true"/>
+<img src="images/validation.png?raw=true"/>(https://towardsdatascience.com/vendor-model-validation-approaches-for-digital-marketing-analysts-bb5c74c75274)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
