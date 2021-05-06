@@ -3,8 +3,8 @@
 ---
 
 ### Publications
-[Project 1 Title](https://towardsdatascience.com/vendor-model-validation-approaches-for-digital-marketing-analysts-bb5c74c75274)
-<img src="images/validation.jpeg?raw=true"/>
+[Vendor Model Validation Approaches for Digital Marketing Analysts](https://towardsdatascience.com/vendor-model-validation-approaches-for-digital-marketing-analysts-bb5c74c75274)
+<img src="images/validation.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
