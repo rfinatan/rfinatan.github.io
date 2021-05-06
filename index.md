@@ -2,10 +2,9 @@
 
 ---
 
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Publications
+[Project 1 Title](https://towardsdatascience.com/vendor-model-validation-approaches-for-digital-marketing-analysts-bb5c74c75274)
+<img src="images/validation.jpeg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
