@@ -13,8 +13,10 @@ A quick and easy guide on how to automate your ad copy creation for immediate up
 <img src="images/rsagenerator.gif?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/rsagenerator.gif?raw=true"/>
+[Fast Fashion, Big Data](https://raresfin.medium.com/fast-fashion-big-data-64fbb5a23ec2)
+<br/>
+A deep dive into the predictive analytic techniques employed by the modern fashion industry pertaining to creative considerations.
+<img src="images/fashionrecommender.png?raw=true"/>
 
 ---
 
