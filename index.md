@@ -4,7 +4,7 @@
 
 ### Publications
 [Vendor Model Validation Approaches for Digital Marketing Analysts](https://towardsdatascience.com/vendor-model-validation-approaches-for-digital-marketing-analysts-bb5c74c75274)
-<img src="images/validation.png?raw=true"/>(https://towardsdatascience.com/vendor-model-validation-approaches-for-digital-marketing-analysts-bb5c74c75274)
+<img src="images/validation.png?raw=true"/>
 
 ---
 [Write Responsive Search Ads using Python 3 and Pandas](https://raresfin.medium.com/writing-responsive-search-ads-using-python-3-and-pandas-c840e47b8272)
