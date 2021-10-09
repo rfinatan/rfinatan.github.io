@@ -19,10 +19,5 @@ A deep dive into the predictive analytic techniques employed by the modern fashi
 <img src="images/fashionrecommender.png?raw=true"/>
 
 ---
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<p style="font-size:11px">Thank you for visiting my portfolio! Please reach out via LinkedIn if you have any questions.</p>
 <!-- Remove above link if you don't want to attibute -->
