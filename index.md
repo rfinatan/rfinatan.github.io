@@ -8,6 +8,7 @@
 
 ---
 [Write Responsive Search Ads using Python 3 and Pandas](https://raresfin.medium.com/writing-responsive-search-ads-using-python-3-and-pandas-c840e47b8272)
+A quick and easy guide on how to automate your ad copy creation for immediate upload to Google Ads or Microsoft Ads Editor platforms.
 <img src="images/rsagenerator.gif?raw=true"/>
 
 ---
