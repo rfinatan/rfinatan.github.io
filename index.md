@@ -8,7 +8,7 @@
 
 ---
 [Write Responsive Search Ads using Python 3 and Pandas](https://raresfin.medium.com/writing-responsive-search-ads-using-python-3-and-pandas-c840e47b8272)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/rsagenerator.gif?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
