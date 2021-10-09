@@ -7,22 +7,12 @@
 <img src="images/validation.png?raw=true"/>(https://towardsdatascience.com/vendor-model-validation-approaches-for-digital-marketing-analysts-bb5c74c75274)
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Write Responsive Search Ads using Python 3 and Pandas](https://raresfin.medium.com/writing-responsive-search-ads-using-python-3-and-pandas-c840e47b8272)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+<img src="images/rsagenerator.gif?raw=true"/>
 
 ---
 
