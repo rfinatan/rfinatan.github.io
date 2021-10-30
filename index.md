@@ -5,6 +5,11 @@
 ### Publications
 [Vendor Model Validation Approaches for Digital Marketing Analysts](https://towardsdatascience.com/vendor-model-validation-approaches-for-digital-marketing-analysts-bb5c74c75274)
 <img src="images/validation.png?raw=true"/>
+---
+[Natural Language Processing for Marketing and E-Commerce Using spaCy](https://raresfin.medium.com/natural-language-processing-for-marketing-and-e-commerce-using-spacy-31218b92637b)
+<br/>
+A guide on how to parse landing pages, scan for lexical elements, and implement them in your marketing and e-commerce initiatives.
+<img src="images/rsagenerator.gif?raw=true"/>
 
 ---
 [Write Responsive Search Ads using Python 3 and Pandas](https://raresfin.medium.com/writing-responsive-search-ads-using-python-3-and-pandas-c840e47b8272)
