@@ -9,7 +9,7 @@
 [Natural Language Processing for Marketing and E-Commerce Using spaCy](https://raresfin.medium.com/natural-language-processing-for-marketing-and-e-commerce-using-spacy-31218b92637b)
 <br/>
 A guide on how to parse landing pages, scan for lexical elements, and implement them in your marketing and e-commerce initiatives.
-<img src="images/rsagenerator.gif?raw=true"/>
+<img src="images/spacy_entity_visualizer_washer_whirlpool.png?raw=true"/>
 
 ---
 [Write Responsive Search Ads using Python 3 and Pandas](https://raresfin.medium.com/writing-responsive-search-ads-using-python-3-and-pandas-c840e47b8272)
