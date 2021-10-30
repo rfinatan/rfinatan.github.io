@@ -5,6 +5,7 @@
 ### Publications
 [Vendor Model Validation Approaches for Digital Marketing Analysts](https://towardsdatascience.com/vendor-model-validation-approaches-for-digital-marketing-analysts-bb5c74c75274)
 <img src="images/validation.png?raw=true"/>
+
 ---
 [Natural Language Processing for Marketing and E-Commerce Using spaCy](https://raresfin.medium.com/natural-language-processing-for-marketing-and-e-commerce-using-spacy-31218b92637b)
 <br/>
