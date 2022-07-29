@@ -6,7 +6,7 @@
 [Automatically Generate Site-Wide Meta Descriptions with Python + BART for PyTorch](https://raresfin.medium.com/automatically-generate-site-wide-meta-descriptions-with-python-bart-for-pytorch-cd0e14dd40d3)
 <br/>
 Quickly generate SEO meta descriptions for an entire site using a simple Python script. Allows for domain URL extraction and clean-up, data mining of each domain URL, NLP pipeline applied to mined data, and standardization of meta descriptions.
-<img src="images/spacy_entity_visualizer_washer_whirlpool.png?raw=true"/>
+<img src="images/bart.jpeg?raw=true"/>
 
 ---
 [Natural Language Processing for Marketing and E-Commerce Using spaCy](https://raresfin.medium.com/natural-language-processing-for-marketing-and-e-commerce-using-spacy-31218b92637b)
