@@ -8,6 +8,7 @@
 A guide on how to use Python to extract XML files from an SFTP server, back them up to Google Cloud Storage, and process them — all without spinning up a virtual machine.
 <img src="images/gcp.png?raw=true"/>
 
+---
 [Automatically Generate Site-Wide Meta Descriptions with Python + BART for PyTorch](https://raresfin.medium.com/automatically-generate-site-wide-meta-descriptions-with-python-bart-for-pytorch-cd0e14dd40d3)
 <br/>
 Quickly generate SEO meta descriptions for an entire site using a simple Python script. Allows for domain URL extraction and clean-up, data mining of each domain URL, NLP pipeline applied to mined data, and standardization of meta descriptions.
