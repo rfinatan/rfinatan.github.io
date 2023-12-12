@@ -3,6 +3,12 @@
 ---
 
 ### Publications
+[Wielding Digital Tactics to Promote European Unity and Heritage at Rural Levels through Historical Reenactments](https://lnkd.in/dZzKE4Fp)
+<br/>
+By an invitation from the European Commission's Erasmus+ program, I was invited to share my interpretation of how digital analytics can be used to promote unity and heritage at rural levels throughout the European Union.
+<img src="images/eu_comission_project.png?raw=true"/>
+
+---
 [SFTP and Process XML Files in Google Cloud Platform with Python](https://medium.com/@raresfin/sftp-and-process-xml-files-in-google-cloud-platform-with-python-bdcf3a302764)
 <br/>
 A guide on how to use Python to extract XML files from an SFTP server, back them up to Google Cloud Storage, and process them — all without spinning up a virtual machine.
