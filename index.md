@@ -9,6 +9,12 @@ By an invitation from the European Commission's Erasmus+ program, I was invited 
 <img src="images/eu_comission_project.png?raw=true"/>
 
 ---
+[An Analysis of Probabilistic Factors in Association of Tennis Professionals Winners ](https://medium.com/@raresfin/sftp-and-process-xml-files-in-google-cloud-platform-with-python-bdcf3a302764)
+<br/>
+This study examines ATP tennis match data from 2000 to 2022, aiming to identify key performance factors for players' success. Using 22 CSV files sourced from Jeff Sackmann, the research explores player matchups, environmental conditions, and tournament-specific performance. Utilizing random forests algorithms, the study provides insights for tennis enthusiasts and sports bettors interested in understanding player performance and match outcomes.
+<img src="images/tennis_factors.png?raw=true"/>
+
+---
 [SFTP and Process XML Files in Google Cloud Platform with Python](https://medium.com/@raresfin/sftp-and-process-xml-files-in-google-cloud-platform-with-python-bdcf3a302764)
 <br/>
 A guide on how to use Python to extract XML files from an SFTP server, back them up to Google Cloud Storage, and process them — all without spinning up a virtual machine.
