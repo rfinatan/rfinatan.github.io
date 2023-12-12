@@ -5,7 +5,7 @@
 ### Publications
 [Wielding Digital Tactics to Promote European Unity and Heritage at Rural Levels through Historical Reenactments](https://lnkd.in/dZzKE4Fp)
 <br/>
-By an invitation from the European Commission's Erasmus+ program, I was invited to share my interpretation of how digital analytics can be used to promote unity and heritage at rural levels throughout the European Union. The project is formally catalogued as project no: 2022-2-RO01-KA210-ADU-000097575.
+By an invitation from the [European Commission](https://commission.europa.eu/)'s Erasmus+ program, I was invited to share my interpretation of how digital analytics can be used to promote unity and heritage at rural levels throughout the European Union. The project is formally catalogued as project no: 2022-2-RO01-KA210-ADU-000097575.
 <img src="images/eu_comission_project.png?raw=true"/>
 
 ---
