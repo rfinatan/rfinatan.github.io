@@ -11,7 +11,7 @@ By an invitation from the European Commission's Erasmus+ program, I was invited 
 ---
 [An Analysis of Probabilistic Factors in Association of Tennis Professionals Winners ](pdf/atp_winners_analysis_report.pdf)
 <br/>
-This study examines ATP tennis match data from 2000 to 2022, aiming to identify key performance factors for players' success. Using 22 CSV files sourced from Jeff Sackmann, the research explores player matchups, environmental conditions, and tournament-specific performance. Utilizing random forests algorithms, the study provides insights for tennis enthusiasts and sports bettors interested in understanding player performance and match outcomes.
+This study examines ATP tennis match data from 2000 to 2022, aiming to identify key performance factors for players' success, including player matchups, environmental conditions, and tournament-specific performance. Utilizing random forests algorithms, the study provides insights for tennis enthusiasts and sports bettors interested in understanding player performance and match outcomes.
 <img src="images/tennis_factors.png?raw=true"/>
 
 ---
