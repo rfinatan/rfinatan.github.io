@@ -21,6 +21,12 @@ A guide on how to use Python to extract XML files from an SFTP server, back them
 <img src="images/gcp.png?raw=true"/>
 
 ---
+[An Analysis of Canadian Marine Accident Fatality Factors](pdf/an_analysis_of_canadian_marine_accident_fatality_factors.pdf)
+<br/>
+This study aims to identify key factors contributing to Canadian marine accident fatalities by analyzing a dataset spanning 1995-2022 using Python, employing data cleaning, exploratory analysis, summary statistics, and machine learning models such as random forests, logistic regression, and Naive Bayes for predicting the probability of fatal incidents.
+<img src="images/marine_accidents.png?raw=true"/>
+
+---
 [Automatically Generate Site-Wide Meta Descriptions with Python + BART for PyTorch](https://raresfin.medium.com/automatically-generate-site-wide-meta-descriptions-with-python-bart-for-pytorch-cd0e14dd40d3)
 <br/>
 Quickly generate SEO meta descriptions for an entire site using a simple Python script. Allows for domain URL extraction and clean-up, data mining of each domain URL, NLP pipeline applied to mined data, and standardization of meta descriptions.
